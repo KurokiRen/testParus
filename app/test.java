@@ -1,5 +1,6 @@
 public void TestClass {
 	
-	if(true)
+	if (true) {
 		return;
+	}
 }
