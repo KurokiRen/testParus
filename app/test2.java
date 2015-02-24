@@ -1,2 +1,3 @@
-if(false)
-return;
+if (false) {
+	return;
+}
